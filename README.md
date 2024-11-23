@@ -31,6 +31,9 @@ Wind Speed Comparison
 
 How do wind speeds at 9 AM and 3 PM compare across different locations?
 Are certain cities more prone to higher wind speeds at specific times?
+![image](https://github.com/user-attachments/assets/fa70e9c8-dcc1-4c67-920d-2c0bd36b9efa)
+
+
 2. Analytical Process
 Data Aggregation
 
